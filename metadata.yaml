@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34693
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Adler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30577#Told-in-the-Coffee-HouseTurkish-Tales
 gutenberg_issued: '2009-12-02'
 gutenberg_type: Text
 identifiers:
