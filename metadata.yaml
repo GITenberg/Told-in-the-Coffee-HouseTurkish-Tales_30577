@@ -1,0 +1,50 @@
+_repo: Told-in-the-Coffee-HouseTurkish-Tales_30577
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ramsay, Allan
+    aliases:
+    - Ramsey, Allen
+    - Ramsey, Allan
+    birthdate: 1686
+    deathdate: 1758
+    gutenberg_agent_id: '34694'
+    url: http://www.gutenberg.org/2009/agents/34694
+  - agent_name: Adler, Cyrus
+    birthdate: 1863
+    deathdate: 1940
+    gutenberg_agent_id: '34693'
+    url: http://www.gutenberg.org/2009/agents/34693
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Adler
+description: ''
+gutenberg_issued: '2009-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30577'
+  lccn: 05042180
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Turkey'
+- !lcsh 'Tales -- Turkey'
+- !lcc 'PN'
+tableOfContents: How the Hodja saved Allah -- Better is the folly of woman than the
+  wisdom of man -- The Hanoum and the unjust Cadi -- What happended to Hadji, a merchant
+  of the Bezestan -- How the junkman travelled to find treasure in his own yard --
+  How Chapkin Halid became chief detective -- How cobbler Ahmet became the chief astrologer
+  -- The wise son of Ali Pasha -- The merciful Khan -- King Kara-Kush of Bithynia
+  -- The prayer rug and the dishonest steward -- The goose, the eye, the daughter
+  and the arm -- The forty wise men -- How the priest knew that it would snow -- Who
+  was the thirteenth son? -- Paradise sold by the yard -- Jew turned Turk -- The metamorphosis
+  -- The Calif Omar -- Kalaidji Avram of Balata -- How Mehmet Ali Pasha of Egypt administered
+  justice -- How the farmer learned to cure his wife, a Turkish Aesop -- The language
+  of birds -- The swallow's advice -- We know not what the dawn may bring forth --
+  Old men made young -- The bribe -- How the Devil lost his wager -- The effects of
+  Raki.
+title: 'Told in the Coffee House: Turkish Tales'
+url: http://www.gutenberg.org/ebooks/30577
